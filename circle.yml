@@ -1,5 +1,5 @@
 # The deployment section should be excluded until
-
+# we have two tasks deployment and test 
 # it is explicitly included in module 5
 deployment:
   dockerhub:
